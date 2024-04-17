@@ -11,3 +11,6 @@ Queries and Findings: The project involved running several SQL queries on the sa
 # Q5. Find the Average Rating for the movie that belong to Multiple Genres.
 # Q6. Categories the Genre on the According to Age-Certification.
 # Q7. Find the 2nd highest Movie that are made in Year 2013.
+
+Database Schema The analysis is based on the following database schema:
+# Netflix_data - ID,	TITLE,	TYPE,	RELEASE_YEAR,	AGE_CERTIFICATION,	RUNTIME	,GENRE,	PRODUCTION_COUNTRIES,	SEASONS,	IMDB_SCORE,	IMDB_VOTES
